@@ -1,4 +1,6 @@
 body {
+    background-image: url(bg.png);
+    background-size: 100%;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 18px;
     }
@@ -9,7 +11,7 @@ header {
     }
 
 header h1 a {
-    color: red;
+    color: coral;
     text-decoration: none;
     }
 
@@ -37,5 +39,5 @@ header h1 a {
     }
 
 .post-entry h2 a:hover {
-    color: red;
+    color: coral;
     }
